@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fluffy Shop
 
 
@@ -91,3 +92,8 @@ For open source projects, say how it is licensed.
 
 ## Project status
 If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+=======
+# Fluffy-shop
+Shopping for Fluffy figures is a place that offers a lot of choices for cartoon character model enthusiasts, meeting the need to shop and collect character models at extremely reasonable prices.
+Building sales management software on the web app: making it easy for users to make purchases and convenient for administrators in managing products and orders.
+>>>>>>> c2c6acae314d22b12609769650181a687769cbfa
