@@ -1,0 +1,21 @@
+
+”
+java:S1192"SDefine a constant instead of duplicating this literal "ChangePassword.jsp" 3 times.(ÿÏæ¯øÿÿÿÿJ$9fef61f4-abf3-488f-b5cf-22dc17d843af
+½
+java:S1186/"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚“¶îJ$4eb34f69-a91a-4273-ac2d-22fdff4c626c
+—
+java:S1450"VRemove the "message" field and declare it as a local variable in the relevant methods.(ù„è¿ûÿÿÿÿJ$254e8a65-1140-4a8d-ad04-58c2dfb53993
+v
+java:S1161":Add the "@Override" annotation above this method signature( ÜóJ$ad1e0b7c-c0ae-42e6-83c5-b5583b892255
+¢
+java:S1989"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ÿÏæ¯øÿÿÿÿJ$50070d93-74b3-4891-8ee7-43e638616ca0
+v
+java:S1161":Add the "@Override" annotation above this method signature(‹¨¯¿J$aa4b198f-20f4-4e68-9808-0e3ace6d5bf1
+¢
+java:S1989)"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ÿÏæ¯øÿÿÿÿJ$a9602315-b030-47c5-9da3-152135bc3765
+¢
+java:S1989,"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ÿÏæ¯øÿÿÿÿJ$274a8284-ecd2-469a-8784-c1f979ba2b17
+v
+java:S1161/":Add the "@Override" annotation above this method signature(‚“¶îJ$96f22953-8ea0-4440-a16a-08324f56e86e
+l
+java:S1068"+Remove this unused "message" private field.(ù„è¿ûÿÿÿÿJ$60bf8790-cf44-4edb-97f9-cde506732e6c

@@ -1,0 +1,21 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢“¥áúÿÿÿÿ8ûã¨’ü1J$9cc709ef-3319-49b2-819c-c2780dacab9d
+
+java:S1450"VRemove the "message" field and declare it as a local variable in the relevant methods.(ù„è¿ûÿÿÿÿ8£©’ü1J$2bbd761f-6961-447f-8daa-d56fa131f2c1
+}
+java:S1161":Add the "@Override" annotation above this method signature( Üó8’£©’ü1J$10434ed9-f6a4-49b4-9884-c980d414edc1
+‚
+java:S1161":Add the "@Override" annotation above this method signature(°Å·ğşÿÿÿÿ8’£©’ü1J$f3f4ac25-33de-445b-b17c-7bfc9c4211ea
+¤
+java:S1989"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ÜÊ‘8•£©’ü1J$ab6625a5-7d42-4178-b0dd-db538cde00eb
+}
+java:S1161":Add the "@Override" annotation above this method signature(‹¨¯¿8–£©’ü1J$93a7903f-8936-466b-b96d-cc60a6b73bd0
+–
+java:S1989*"SHandle the following exception that could be thrown by "sendRedirect": IOException.(óÇÆı8˜£©’ü1J$367fc36c-bfb0-4ed4-ac40-060a3387ba54
+¤
+java:S1989-"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ÜÊ‘8˜£©’ü1J$f0465abe-1aab-4d21-80cb-7cd7a4daf36a
+}
+java:S11611":Add the "@Override" annotation above this method signature(‚“¶î8™£©’ü1J$d9456716-e5b8-4d18-9686-5ed9d1996b06
+m	java:S1062"+Replace this use of System.out by a logger.(£ÆÏÁ8™£©’ü1J$12f5ad34-8571-4478-85cc-f435b5c2a3c6
+s
+java:S1068"+Remove this unused "message" private field.(ù„è¿ûÿÿÿÿ8š£©’ü1J$80290f1c-05ff-4c59-a6fa-21071fda4c5f

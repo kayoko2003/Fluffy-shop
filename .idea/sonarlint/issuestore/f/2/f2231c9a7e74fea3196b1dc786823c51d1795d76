@@ -1,0 +1,62 @@
+
+ƒ,Web:MouseEventWithoutKeyboardEquivalentCheck^"?Add a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <a> tag.(έ―­βψÿÿÿÿ8Ωκρό1
+	Web:S6819^"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(έ―­βψÿÿÿÿ8Ϊκρό1
+ƒ,Web:MouseEventWithoutKeyboardEquivalentCheckd"?Add a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <a> tag.(΄ξ†ώÿÿÿÿ8Ϊκρό1
+	Web:S6819d"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(΄ξ†ώÿÿÿÿ8Ϊκρό1
+ƒ,Web:MouseEventWithoutKeyboardEquivalentCheck|"?Add a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <a> tag.(νσÒώÿÿÿÿ8Ϊκρό1
+	Web:S6819|"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(νσÒώÿÿÿÿ8Ϋκρό1
+„,Web:MouseEventWithoutKeyboardEquivalentCheck½"?Add a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <a> tag.(Έ§Αφόÿÿÿÿ8Ϋκρό1
+€	Web:S6819½"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(Έ§Αφόÿÿÿÿ8Ϋκρό1
+Q	Web:S6853Ο"/A form label must be associated with a control.(§ήράόÿÿÿÿ8Ϋκρό1
+„,Web:MouseEventWithoutKeyboardEquivalentCheckΧ"?Add a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <a> tag.(΅®τόÿÿÿÿ8Ϋκρό1
+€	Web:S6819Χ"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(΅®τόÿÿÿÿ8Ϋκρό1
+o	Web:S6819ο"MUse <img> instead of the img role to ensure accessibility across all devices.(ν«£πψÿÿÿÿ8Ϋκρό1
+j	Web:S6819"MUse <img> instead of the img role to ensure accessibility across all devices.(‡¤μ8άκρό1
+o	Web:S6819"MUse <img> instead of the img role to ensure accessibility across all devices.(‰«Ϊθϋÿÿÿÿ8άκρό1
+j	Web:S6819―"MUse <img> instead of the img role to ensure accessibility across all devices.(ώΝΠ 8άκρό1
+~,Web:MouseEventWithoutKeyboardEquivalentCheckΌ"?Add a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <a> tag.(ΥΓ&8άκρό1
+z	Web:S6819Ό"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(ΥΓ&8άκρό1
+|	Web:S6819Ω"ZUse <progress> instead of the progressbar role to ensure accessibility across all devices.(­Ω‘–ϋÿÿÿÿ8άκρό1
+w	Web:S6819ε"ZUse <progress> instead of the progressbar role to ensure accessibility across all devices.(µΟ­8άκρό1
+|	Web:S6819ρ"ZUse <progress> instead of the progressbar role to ensure accessibility across all devices.(•¥―‡όÿÿÿÿ8άκρό1
+|	Web:S6819ύ"ZUse <progress> instead of the progressbar role to ensure accessibility across all devices.(Ί…Φ‰όÿÿÿÿ8άκρό1
+|	Web:S6819‰"ZUse <progress> instead of the progressbar role to ensure accessibility across all devices.(Ε½‡¤όÿÿÿÿ8άκρό1
+t Web:TableHeaderHasIdOrScopeCheckΙ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ΝΥ—σωÿÿÿÿ8έκρό1
+o Web:TableHeaderHasIdOrScopeCheckΞ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¨ΰ­ΰ8έκρό1
+t Web:TableHeaderHasIdOrScopeCheckΟ";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ύ–‚θόÿÿÿÿ8έκρό1
+t Web:TableHeaderHasIdOrScopeCheckΠ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¶‚Ψψÿÿÿÿ8έκρό1
+o Web:TableHeaderHasIdOrScopeCheckΡ";Add either an 'id' or a 'scope' attribute to this <th> tag.(”ή8έκρό1
+o Web:TableHeaderHasIdOrScopeCheckÒ";Add either an 'id' or a 'scope' attribute to this <th> tag.(Β·½Μ8έκρό1
+o Web:TableHeaderHasIdOrScopeCheckΣ";Add either an 'id' or a 'scope' attribute to this <th> tag.(™ΟΰΔ8έκρό1
+o Web:TableHeaderHasIdOrScopeCheckέ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¶ς’°8έκρό1
+n Web:TableHeaderHasIdOrScopeCheckς";Add either an 'id' or a 'scope' attribute to this <th> tag.(―εΚx8έκρό1
+o Web:TableHeaderHasIdOrScopeCheck‡";Add either an 'id' or a 'scope' attribute to this <th> tag.(¤“½ν8ήκρό1
+o Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(φρπϊ8ήκρό1
+t Web:TableHeaderHasIdOrScopeCheck±";Add either an 'id' or a 'scope' attribute to this <th> tag.(ΠΰΨ–ϊÿÿÿÿ8ήκρό1
+o Web:TableHeaderHasIdOrScopeCheckΖ";Add either an 'id' or a 'scope' attribute to this <th> tag.(‚‘—¶8ήκρό1
+n Web:TableHeaderHasIdOrScopeCheckΫ";Add either an 'id' or a 'scope' attribute to this <th> tag.(›Δ-8ήκρό1
+t Web:TableHeaderHasIdOrScopeCheckπ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ΔΏΓύÿÿÿÿ8ήκρό1
+t Web:TableHeaderHasIdOrScopeCheck…";Add either an 'id' or a 'scope' attribute to this <th> tag.(ΊΞΐ€ώÿÿÿÿ8ήκρό1
+o Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(βΑγ8ήκρό1
+o Web:TableHeaderHasIdOrScopeCheck―";Add either an 'id' or a 'scope' attribute to this <th> tag.(¶ς’°8ήκρό1
+t Web:TableHeaderHasIdOrScopeCheckΔ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ΠΰΨ–ϊÿÿÿÿ8ήκρό1
+t Web:TableHeaderHasIdOrScopeCheckΩ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ΧΊιΌωÿÿÿÿ8ήκρό1
+t Web:TableHeaderHasIdOrScopeCheckξ";Add either an 'id' or a 'scope' attribute to this <th> tag.(ΗζπΌώÿÿÿÿ8ήκρό1
+G	Web:S5256Ζ	"%Add "<th>" headers to this "<table>".(ΚΎ΄ϊÿÿÿÿ8ίκρό1
+v	Web:S6819ϊ	"ZUse <progress> instead of the progressbar role to ensure accessibility across all devices.(γϋϋX8ίκρό1
+v	Web:S6819
+"ZUse <progress> instead of the progressbar role to ensure accessibility across all devices.(γϋϋX8ίκρό1
+w	Web:S6819¤
+"ZUse <progress> instead of the progressbar role to ensure accessibility across all devices.(ª―Ό8ίκρό1
+v	Web:S6819Ή
+"ZUse <progress> instead of the progressbar role to ensure accessibility across all devices.(Η•m8ίκρό1
+|	Web:S6819Ξ
+"ZUse <progress> instead of the progressbar role to ensure accessibility across all devices.(ΠΗΠΝύÿÿÿÿ8ίκρό1
+|	Web:S6819γ
+"ZUse <progress> instead of the progressbar role to ensure accessibility across all devices.(ΠΗΠΝύÿÿÿÿ8ίκρό1
+|	Web:S6819ψ
+"ZUse <progress> instead of the progressbar role to ensure accessibility across all devices.(ΠΗΠΝύÿÿÿÿ8ίκρό1
+o	Web:S6819"SUse <dialog> instead of the dialog role to ensure accessibility across all devices.(ΰΩ§08ίκρό1
+u	Web:S6819"SUse <html> instead of the document role to ensure accessibility across all devices.(ϊόφ–ώÿÿÿÿ8ίκρό1
+e	Web:S5255I"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(κυ¨ϊÿÿÿÿ8ίκρό1
+a	Web:S5255Τ"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(ά¥Αή8ΰκρό1

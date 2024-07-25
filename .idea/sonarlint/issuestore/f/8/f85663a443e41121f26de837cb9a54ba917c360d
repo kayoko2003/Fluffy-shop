@@ -1,0 +1,24 @@
+
+Z
+java:S25832"DChange this condition so that it does not always evaluate to "false"(ÍÅ†ñ
+\
+java:S1192 "FDefine a constant instead of duplicating this literal "passC" 3 times.(è–òç
+
+java:S1130"yRemove the declaration of thrown exception 'jakarta.servlet.ServletException', as it cannot be thrown from method's body.(ıù±
+
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ıù±
+I
+java:S1172".Remove this unused method parameter "request".(ùêÜåûÿÿÿÿ
+w
+java:S1989%"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(‹ºï
+V	java:S125."<This block of commented-out lines of code should be removed.(©ıôúÿÿÿÿÿ
+Q
+java:S24414";Make "Admin" serializable or don't store it in the session.(š©´¡
+n
+java:S1989@"SHandle the following exception that could be thrown by "sendRedirect": IOException.(Û§·şÿÿÿÿ
+Y
+java:S2441C">Make "Customer" serializable or don't store it in the session.(è¹úıÿÿÿÿ
+n
+java:S1989R"SHandle the following exception that could be thrown by "sendRedirect": IOException.(×©ëÿÿÿÿÿ
+w
+java:S1989U"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(‹ºï

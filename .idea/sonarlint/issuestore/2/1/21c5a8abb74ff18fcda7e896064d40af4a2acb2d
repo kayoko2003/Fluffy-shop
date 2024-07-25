@@ -1,0 +1,46 @@
+
+“
+java:S2095ê"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ôöšª8ÆĞîûû1J$daceede5-a1d9-495d-ac37-c80b35ef849e
+’
+java:S2095d"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª8ÇĞîûû1J$f720e3ac-723d-4185-99cc-d39b63e65515
+’
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª8ÇĞîûû1J$c486256d-886e-4a12-b680-aeb8204bc68f
+’
+java:S2095*"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ôöšª8ÂĞîûû1J$261c47b3-c95a-449d-8548-7e49b8e7e673
+“
+java:S2095¼"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª8ÇĞîûû1J$fc5428ec-3172-4285-9299-5670a69a0020
+“
+java:S2095†"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ôöšª8ÇĞîûû1J$120246e3-e24e-488e-977f-891dd8edb1cf
+’
+java:S2095D"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ôöšª8ÆĞîûû1J$59b44936-9baf-47dd-9c5f-7b1a9a76fd67
+“
+java:S2095Ÿ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ôöšª8ÇĞîûû1J$2c9a4a01-6a2f-40cd-a37d-7803fda7e6fe
+“
+java:S2095«"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ôöšª8ÇĞîûû1J$5329ec88-3e82-456d-a750-aa8a9f89afd2
+“
+java:S2095Í"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ôöšª8ÁĞîûû1J$46d8189c-f83b-4681-b13f-08fbeec53e33
+“
+java:S2095·"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ôöšª8ÇĞîûû1J$09f4856b-2df5-4c9e-93f8-b4a32490400d
+“
+java:S2095€"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ôöšª8»Ğîûû1J$cebcf5e1-98cd-445f-946a-e4a31c254610
+k	java:S108/")Either remove or fill this block of code.(”ı¾8òèîûû1J$ae4a0f85-7ff7-443f-80e4-44ac0d0ade0f
+y
+java:S1854H"6Remove this useless assignment to local variable "rs".(·¦Ã…8óèîûû1J$432df5fe-2e69-431f-a296-ad6be070313c
+k	java:S108Y")Either remove or fill this block of code.(”ı¾8Òéîûû1J$4f9bf4a2-5ddb-408e-91ed-0c2013515e02
+k	java:S108w")Either remove or fill this block of code.(É®£8òéîûû1J$9ca7109a-cc66-460e-b2e3-f7c9bb2c9545
+z
+java:S1854Œ"6Remove this useless assignment to local variable "rs".(·¦Ã…8óéîûû1J$0c76ebed-9a15-4e29-b043-3b82dafd2ef7
+l	java:S108")Either remove or fill this block of code.(”ı¾8‹êîûû1J$d24a4484-6796-4e5b-8ec5-935e3282389d
+l	java:S108Ã")Either remove or fill this block of code.(”ı¾8Ôêîûû1J$c47638ae-f4fd-4d5b-b281-bad9fcd30bdf
+z
+java:S1854Ï"6Remove this useless assignment to local variable "rs".(·¦Ã…8Ôêîûû1J$b2fb1049-2700-46c9-bf7b-433468fd0f83
+l	java:S108Ô")Either remove or fill this block of code.(”ı¾8Õêîûû1J$2fb6cfd9-09b9-47c8-8eaa-0ba9b9dbe685
+z
+java:S1854ë"6Remove this useless assignment to local variable "rs".(·¦Ã…8Öêîûû1J$6ecc00a0-143c-4bcd-a146-b7fff705afb9
+l	java:S108ò")Either remove or fill this block of code.(”ı¾8êêîûû1J$86f12f5a-114a-4223-8baf-efe9348a7df8
+z
+java:S1854ƒ"6Remove this useless assignment to local variable "rs".(·¦Ã…8óêîûû1J$546a8649-14e1-4ab2-99df-246732e46780
+l	java:S108”")Either remove or fill this block of code.(”ı¾8¾ëîûû1J$07eaf613-99a7-4c01-997d-7b9a24d342c1
+l	java:S108£")Either remove or fill this block of code.(”ı¾8Ñëîûû1J$6308ce05-cf5c-4fc4-800c-16a5f34ce6ff
+l	java:S108±")Either remove or fill this block of code.(”ı¾8éëîûû1J$16da1904-4adf-4a49-b4c6-034301849a4b
+l	java:S108Ğ")Either remove or fill this block of code.(É®£8àìîûû1J$ba972956-0822-4514-bf3b-87e9451c5213

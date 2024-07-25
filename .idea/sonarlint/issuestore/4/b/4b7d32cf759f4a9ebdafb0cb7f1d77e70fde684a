@@ -1,0 +1,24 @@
+
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ά“¥αϊÿÿÿÿJ$11f3e328-3bbc-4cf0-91c3-1b8ce4942614
+›
+java:S1192"ZDefine a constant instead of duplicating this literal "Common/ChangePassword.jsp" 3 times.(ύο‹ΖωÿÿÿÿJ$e7b7f39a-3390-457a-a8f9-7c39219ebd6d
+½
+java:S1186."€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚“¶ξJ$0b7c9033-d594-41ce-a0b2-e754c0e595c1
+—
+java:S1450"VRemove the "message" field and declare it as a local variable in the relevant methods.(ω„θΏϋÿÿÿÿJ$0fb2864f-cc92-46e3-a92e-e878e231125b
+v
+java:S1161":Add the "@Override" annotation above this method signature( άσJ$0bab9100-840c-454e-be5e-ccfccef2bed1
+{
+java:S1161":Add the "@Override" annotation above this method signature(°Ε·πώÿÿÿÿJ$5875a499-3e52-467e-9ed9-0479df352fbe
+Ά
+java:S1989"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ύο‹ΖωÿÿÿÿJ$d6b3e461-9752-4e1c-b33b-f0cfccb59db8
+v
+java:S1161":Add the "@Override" annotation above this method signature(‹¨―ΏJ$728686c8-84ee-44a0-adac-1f5ab0d09f55
+Ά
+java:S1989("aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ύο‹ΖωÿÿÿÿJ$a3d19f81-6877-4c8b-ab34-1c1fdf56e5e1
+Ά
+java:S1989+"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ύο‹ΖωÿÿÿÿJ$90f5c5ba-36fe-43b0-99a7-9935842e4e39
+v
+java:S1161.":Add the "@Override" annotation above this method signature(‚“¶ξJ$66484ab3-aac0-4f25-8a05-a58a66613079
+l
+java:S1068"+Remove this unused "message" private field.(ω„θΏϋÿÿÿÿJ$b925f4a1-1b03-4539-92a5-4bd02875d5b0

@@ -1,0 +1,18 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡­ïÈ8˜¶çùû1J$057e1cf7-c7c1-4767-a7da-40ac1dc02c4c
+¢
+java:S1192"ZDefine a constant instead of duplicating this literal "Common/forgotPassword.jsp" 3 times.(Îé¡¨þÿÿÿÿ8™¶çùû1J$d7d534c5-4796-440c-953a-47507d2cf3bd
+»
+java:S1130"yRemove the declaration of thrown exception 'jakarta.servlet.ServletException', as it cannot be thrown from method's body.(ýù±8™¶çùû1J$7a2d4a97-b000-42db-b08a-3e6e3ff86c23
+®
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ýù±8™¶çùû1J$8d7ecc05-1b14-4632-8f1a-1b30f197c346
+v
+java:S1172".Remove this unused method parameter "request".(ùêÜåûÿÿÿÿ8™¶çùû1J$b6548f18-5418-45f4-b36a-a587c14900d4
+‚
+java:S1161":Add the "@Override" annotation above this method signature(°Å·ðþÿÿÿÿ8™¶çùû1J$8a3704a9-b995-48c3-8540-c80513e5a21b
+©
+java:S1989"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Îé¡¨þÿÿÿÿ8™¶çùû1J$008265d5-d83b-4b97-ac13-0563f79ce30b
+©
+java:S1989/"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Îé¡¨þÿÿÿÿ8™¶çùû1J$fdaf3153-9f48-4e1f-889d-c35f3bd67a58
+©
+java:S19892"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Îé¡¨þÿÿÿÿ8™¶çùû1J$bd7f2fe4-bf59-4264-a370-f4b82fd3cbfb

@@ -1,0 +1,12 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒ‰Ì²şÿÿÿÿ8Ì÷üşû1
+
+java:S1186!"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹¨¯¿8”ışû1
+•
+java:S1130"yRemove the declaration of thrown exception 'jakarta.servlet.ServletException', as it cannot be thrown from method's body.(ıù±8Éışû1
+ˆ
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ıù±8Êışû1
+P
+java:S1172".Remove this unused method parameter "request".(ùêÜåûÿÿÿÿ8Ëışû1
+~
+java:S1989"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ç‚8åışû1

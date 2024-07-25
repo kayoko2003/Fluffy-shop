@@ -1,0 +1,30 @@
+
+“	java:S117`"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øƒèÉ8¥Ä¬’ü1J$cdee3a97-8d7c-4336-9965-2548302c70f8
+˜	java:S117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éô‡›úÿÿÿÿ8¦Ä¬’ü1J$b3cd7529-01d6-4747-937f-08d39f61ae93
+“
+java:S2095°"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª8¦Ä¬’ü1J$677065bd-3d27-42bb-9f2a-abbb3f77e597
+“
+java:S2095€"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª8§Ä¬’ü1J$38a7fd51-c5df-4dfa-ab9c-e1fe5d97bac4
+“
+java:S2095Ç"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª8¦Ä¬’ü1J$c181fcdb-f49d-47ed-803a-521682045ec3
+’
+java:S2095]"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª8¦Ä¬’ü1J$ff7b7b4b-96fa-47ff-91c9-fe64a18bed3a
+“
+java:S2095 "OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª8¦Ä¬’ü1J$5876b907-a49f-49db-8d41-b11cf69e9002
+“
+java:S2095æ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª8¦Ä¬’ü1J$27953daa-feff-4f20-a040-5dd713abfecb
+l
+java:S2095 "OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª8»ú¸§ü1
+	java:S107â"<Method has 8 parameters, which is greater than 7 authorized.(Þ¤¦˜8§Ä¬’ü1J$83462272-3571-46a3-b42d-5f63903d9bd1
+m	java:S106"+Replace this use of System.out by a logger.(¤Ä´8¨Ä¬’ü1J$ea3178f6-7bea-476c-af54-fb93014eb500
+~	java:S125"<This block of commented-out lines of code should be removed.(êÕ÷ã8ä¹°’ü1J$8ecd0bca-27dd-42cc-b440-c1c90606aa8a
+ƒ	java:S125B"<This block of commented-out lines of code should be removed.(Ó¸°äýÿÿÿÿ8ªÄ¬’ü1J$1a4e0beb-c821-43c2-b96f-c9ffaaae0128
+b
+java:S6905["Don't use the query "SELECT *".(¡ÊêÓ8ªÄ¬’ü1J$74f45dd8-2833-40a1-919b-f444c3d466d4
+~	java:S125k"<This block of commented-out lines of code should be removed.(‹¬ÖÕ8«Ä¬’ü1J$b136d610-4faa-47e7-8ba3-46aceb797837
+c
+java:S6905ž"Don't use the query "SELECT *".(¡ÊêÓ8«Ä¬’ü1J$0e5b6257-80f5-4e80-a5ac-4cc8e01c07fc
+l	java:S108¦")Either remove or fill this block of code.(”ý¾8«Ä¬’ü1J$e895740f-6424-4a00-989e-956aa2c49db7
+s	java:S106ò"+Replace this use of System.out by a logger.(Öˆ¹ùÿÿÿÿ8«Ä¬’ü1J$d054f00f-af7b-4615-b80c-66dfb4cc4a6c
+M
+java:S1128"0Remove this unused import 'java.io.PrintWriter'.(ÓÞÏÛ8Ùú¸§ü1

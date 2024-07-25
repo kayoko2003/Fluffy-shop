@@ -1,0 +1,25 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÛÓ‘8Úà³ýû1J$d762d16f-931c-4b11-b081-7003f1f333ad
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÛÓ‘8Úà³ýû1J$c561ca6e-030f-4ee7-98af-0d236df8d24d
+’
+java:S2095w"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª8áà³ýû1J$f7a23a09-169a-4d15-aa87-371f649f71e4
+“
+java:S2095—"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª8áà³ýû1J$975810ee-fd7a-4914-8211-a8e15f378a83
+“
+java:S2095Ã"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª8áà³ýû1J$baede678-014d-432d-a199-acba267e60ef
+’
+java:S2095`"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª8áà³ýû1J$c86d8eb5-9a1c-4105-ab51-ba79b5278fdf
+’
+java:S2095-"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª8áà³ýû1J$e971bd97-0ab2-4d51-bb47-17a88684fd86
+’
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª8áà³ýû1J$d532b491-836f-498b-8c71-f473f1f5b3de
+„	java:S107\"=Method has 12 parameters, which is greater than 7 authorized.(½Ï°˜üÿÿÿÿ8¶ì¸ýû1J$dcb55479-be9a-4b62-8659-4266249d5625
+m	java:S106"+Replace this use of System.out by a logger.(Áß‡Ü8Õì¸ýû1J$46385a76-eb5a-457b-95c9-9ff88c09a3a3
+b
+java:S6905+"Don't use the query "SELECT *".(¿Œ…“8×ì¸ýû1J$502c6567-8f75-40fe-aa79-d35ce53d567c
+u
+java:S1172t"-Remove this unused method parameter "status".(ØœÇõûÿÿÿÿ8èí¸ýû1J$24da880e-d7a7-4170-8a29-517628c697c8
+b
+java:S6905u"Don't use the query "SELECT *".(æ¹‚³8éí¸ýû1J$b32b6125-d6e7-46dc-b133-10046df02f9e
+c
+java:S6905•"Don't use the query "SELECT *".(¦àè«8ëí¸ýû1J$cf2f22ec-76b5-4f23-8c27-9e73ad0a0ab5

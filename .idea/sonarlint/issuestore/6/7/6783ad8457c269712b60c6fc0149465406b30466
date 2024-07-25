@@ -1,0 +1,29 @@
+
+]
+java:S11920"GDefine a constant instead of duplicating this literal "search" 3 times.(¯ƒ«ˆ
+c
+java:S1192"MDefine a constant instead of duplicating this literal "itemsPerPage" 3 times.(˜æŠå
+e
+java:S11927"JDefine a constant instead of duplicating this literal "sortOrder" 3 times.(¶Ù„´şÿÿÿÿ
+]
+java:S1192)"GDefine a constant instead of duplicating this literal "sortBy" 3 times.(øë«¸
+d
+java:S11925"IDefine a constant instead of duplicating this literal "category" 3 times.(˜‚È¯øÿÿÿÿ
+b
+java:S1192"LDefine a constant instead of duplicating this literal "currentPage" 3 times.(êã¡§
+\
+java:S11924"FDefine a constant instead of duplicating this literal "brand" 3 times.(ƒãÚÃ
+—
+java:S1186Q"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹¨¯¿
+n
+java:S1989"SHandle the following exception that could be thrown by "sendRedirect": IOException.(âùÒúÿÿÿÿ
+t
+java:S1989"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(İ‡ÀÔÿÿÿÿÿ
+n
+java:S1989 "YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(¿)
+o
+java:S19894"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ƒãÚÃ
+t
+java:S19895"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(˜‚È¯øÿÿÿÿ
+w
+java:S1989M"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(û¦—

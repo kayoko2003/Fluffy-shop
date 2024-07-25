@@ -1,0 +1,23 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒ‰Ì²þÿÿÿÿ8›ÍÕ¦ü1J$3de2fa2a-6b81-43e1-a73b-21f973d04773
+»
+java:S1130"yRemove the declaration of thrown exception 'jakarta.servlet.ServletException', as it cannot be thrown from method's body.(ýù±8‘øÕ¦ü1J$39ab8fa0-85e2-4d3e-9632-31fd650a27f9
+®
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ýù±8“øÕ¦ü1J$0ac88eec-fa6f-4a08-bb2f-e8eaae9bfa5d
+v
+java:S1172".Remove this unused method parameter "request".(ùêÜåûÿÿÿÿ8“øÕ¦ü1J$002412e5-f647-4e82-8dc4-679157d7d356
+¤
+java:S1989+"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(¹êª¶8ÌøÕ¦ü1J$2b1ca1e9-07af-4160-978f-b70bc89c2888
+]	java:S125&"<This block of commented-out lines of code should be removed.(‰¦—äúÿÿÿÿ8›á¦ü1
+œ
+java:S19894"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ßŒ½´8ÀøÕ¦ü1J$4df662ee-3999-40a7-9ee1-f53d30b8e022
+œ
+java:S19895"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(Ä¤ðä8ÁøÕ¦ü1J$8035abe3-6941-4585-9d72-86345c3658c1
+}
+java:S1989L"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(—üÚ68ºá¦ü1
+q
+java:S1128")Remove this unused import 'dal.AdminDAO'.(Œš³Ýÿÿÿÿÿ8ÎøÕ¦ü1J$903e69a9-8976-46e8-a4a7-7e8213504bd1
+u
+java:S1128"-Remove this unused import 'dal.MarketingDAO'.(¸çóðþÿÿÿÿ8ÎøÕ¦ü1J$31c00c5c-b911-4e63-a759-1e352e24efd7
+M
+java:S1128"0Remove this unused import 'java.io.PrintWriter'.(ÓÞÏÛ8Àá¦ü1

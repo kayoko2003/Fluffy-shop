@@ -1,0 +1,18 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢“¥áúÿÿÿÿJ$e0d095c7-37b4-4406-b711-c50c42eb0f4f
+ˆ
+java:S1192"LDefine a constant instead of duplicating this literal "currentPage" 3 times.(êã¡§J$f32e5fbd-e4fa-4ad7-b37c-86e865b27693
+½
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.( ÜóJ$c6d9e5ef-1ccd-4fd6-8f88-68c71a2deefe
+½
+java:S1186-"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚“¶îJ$5004122d-4044-4392-a94f-f08b0319e60c
+v
+java:S1161":Add the "@Override" annotation above this method signature( ÜóJ$81060723-3db3-49b2-9dd0-0993e233ea4a
+{
+java:S1161":Add the "@Override" annotation above this method signature(°Å·ğşÿÿÿÿJ$88183da4-75a5-4189-b0ee-5a2c88cf3c68
+š
+java:S1989"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(İ‡ÀÔÿÿÿÿÿJ$8849f260-239f-42dc-aa73-156a52489136
+
+java:S1989*"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ØÕÅJ$4d03c8b9-772b-43d3-8f77-c3e021b84104
+v
+java:S1161-":Add the "@Override" annotation above this method signature(‚“¶îJ$9a2c34d0-914b-45cf-accf-f3a3e80b5e72

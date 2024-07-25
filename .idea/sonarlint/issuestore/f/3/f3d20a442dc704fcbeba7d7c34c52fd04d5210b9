@@ -1,0 +1,12 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒ‰Ì²şÿÿÿÿ8¸¢×‚ü1
+³
+java:S1598"This file "PostListServlet.java" should be located in "controller\Marketing" directory, not in "\\D\SWP391\fluffy-shop\src\main\java\Marketing".(ƒ‰Ì²şÿÿÿÿ8¸¢×‚ü1
+\
+java:S1161":Add the "@Override" annotation above this method signature(°Å·ğşÿÿÿÿ8¸¢×‚ü1
+X	java:S125"<This block of commented-out lines of code should be removed.(ôÜÆ¸8¸¢×‚ü1
+ƒ
+java:S1989"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ßÑÿÿÿÿÿ8¸¢×‚ü1
+]	java:S125"<This block of commented-out lines of code should be removed.(Ë‰Ú´ÿÿÿÿÿ8¸¢×‚ü1
+\
+java:S1161":Add the "@Override" annotation above this method signature(ÿàğÿùÿÿÿÿ8¸¢×‚ü1

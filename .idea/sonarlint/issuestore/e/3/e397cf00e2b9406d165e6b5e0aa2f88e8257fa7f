@@ -1,0 +1,12 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×şşJ$f767380c-7fbc-49cd-b150-8d0ef73371ba
+{
+java:S1161":Add the "@Override" annotation above this method signature(°Å·ğşÿÿÿÿJ$ca2bed8a-2f9d-4769-a3c4-f05741724732
+w	java:S125"<This block of commented-out lines of code should be removed.(ôÜÆ¸J$424180c6-2e93-4d46-8527-f3a237205805
+
+java:S1989"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ª‚ÒºJ$bb8398f8-a4f0-4c9d-aef0-ed40fa54c809
+|	java:S125"<This block of commented-out lines of code should be removed.(Ë‰Ú´ÿÿÿÿÿJ$9e8770f4-e9ea-445d-ac20-8b692d477645
+{
+java:S1161":Add the "@Override" annotation above this method signature(ÿàğÿùÿÿÿÿJ$14b40784-9411-4b53-9ea6-62f3fe146315
+Q
+java:S1128"/Remove this unused import 'model.PostCategory'.(Ú·› ûÿÿÿÿ8»ïì‚ü1

@@ -1,0 +1,14 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡­ïÈ8Û‡åıû1J$2f013536-d700-45df-b4ba-12356a5864df
+š
+java:S1192"RDefine a constant instead of duplicating this literal "Common/Signup.jsp" 4 times.(Öğ‰•ùÿÿÿÿ8İ‡åıû1J$e1d0a01d-b7fc-4a0f-b5b6-df45cd9c373c
+‚
+java:S1161":Add the "@Override" annotation above this method signature(°Å·ğşÿÿÿÿ8åıû1J$ce22f57e-2cda-4b12-85e5-82f16f70d4a6
+©
+java:S1989"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Öğ‰•ùÿÿÿÿ8åıû1J$6fc58e8f-454a-4d13-abbc-62f4acda9dc7
+©
+java:S1989$"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Öğ‰•ùÿÿÿÿ8”åıû1J$5f748e67-a2bb-4fee-8c27-01deeca72f30
+©
+java:S1989:"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Öğ‰•ùÿÿÿÿ8˜åıû1J$fa2d8a34-25b8-428f-b0a5-34a80403b237
+©
+java:S1989="aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Öğ‰•ùÿÿÿÿ8˜åıû1J$2a3a1c53-ebd9-4df1-a507-5215be5f69cc

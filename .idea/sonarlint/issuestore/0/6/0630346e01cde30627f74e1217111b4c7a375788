@@ -1,0 +1,21 @@
+
+’
+java:S1104"VMake connection a static final constant or non-public and provide accessors if needed.(ıØÕáJ$df5d61ee-8717-4647-b0af-b12e6a9fc890
+l
+java:S1444"0Make this "public static connection" field final(ıØÕáJ$858ed2b0-cf98-4bdb-8a8e-5e8a3c83f710
+i
+java:S1170"!Make this final field static too.(àË’Ïşÿÿÿÿ8Ù®­ü1J$4f20503a-fe5d-42bd-8e9e-b80637b1e88b
+d
+java:S1170"!Make this final field static too.(¡¼†ƒ8Ù®­ü1J$56ade06b-c14a-4a99-b015-685a55aa7fff
+C
+java:S1170"!Make this final field static too.(†œÃéşÿÿÿÿ8œÀìü1
+C
+java:S1170"!Make this final field static too.(¬Á‚Æûÿÿÿÿ8Àìü1
+C
+java:S1170"!Make this final field static too.(õ¤şÿÿÿÿ8 Àìü1
+j
+java:S3010"'Remove this assignment of "connection".(‡Şñ8Ş®­ü1J$0b0edc3b-e121-4737-a796-89d2f61bd957
+u
+java:S4925"-Remove this "Class.forName()", it is useless.(ìè©‡úÿÿÿÿ8ß®­ü1J$4925fd3f-35bb-4805-b3c5-504c88d2ad0d
+y
+java:S6437"6Revoke and change this password, as it is compromised.(‡Şñ8à®­ü1J$464271d0-64d5-44a0-bf29-efdaff0dbc84

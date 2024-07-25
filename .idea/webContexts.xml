@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Admin/ListStaff.jsp" value="file://$PROJECT_DIR$/src/main/webapp/Admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Admin/StaffDetail.jsp" value="file://$PROJECT_DIR$/src/main/webapp/Admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/AdminProductList.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Blogs/CreateAnBlog.jsp" value="file://$PROJECT_DIR$/src/main/webapp/Blogs" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/CartDetail.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/ChangePassword.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Common/CartCompletion.jsp" value="file://$PROJECT_DIR$/src/main/webapp/Common" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Common/CartContact.jsp" value="file://$PROJECT_DIR$/src/main/webapp/Common" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Common/CartContacts.jsp" value="file://$PROJECT_DIR$/src/main/webapp/Common" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Common/CartDetail.jsp" value="file://$PROJECT_DIR$/src/main/webapp/Common" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Common/Login.jsp" value="file://$PROJECT_DIR$/src/main/webapp/Common" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Common/LoginStaff.jsp" value="file://$PROJECT_DIR$/src/main/webapp/Common" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Common/Orders.jsp" value="file://$PROJECT_DIR$/src/main/webapp/Common" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Common/forgotPassword.jsp" value="file://$PROJECT_DIR$/src/main/webapp/Common" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/CreateAnBlog.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/CreateAnPost.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/CreateAnPost1.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Header.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Home.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/ListStaff.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Login.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Manager.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Marketing/AdminProductList.jsp" value="file://$PROJECT_DIR$/src/main/webapp/Marketing" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Marketing/CustomerDetail.jsp" value="file://$PROJECT_DIR$/src/main/webapp/Marketing" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Marketing/EditPost.jsp" value="file://$PROJECT_DIR$/src/main/webapp/Marketing" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Marketing/ListCustomer.jsp" value="file://$PROJECT_DIR$/src/main/webapp/Marketing" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Marketing/MarketingDashboard.jsp" value="file://$PROJECT_DIR$/src/main/webapp/Marketing" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Marketing/PostDetail.jsp" value="file://$PROJECT_DIR$/src/main/webapp/Marketing" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Marketing/Postlist.jsp" value="file://$PROJECT_DIR$/src/main/webapp/Marketing" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Marketing/SliderDetail.jsp" value="file://$PROJECT_DIR$/src/main/webapp/Marketing" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/PostDetail.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Profile.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Sale/OrderDetailSale.jsp" value="file://$PROJECT_DIR$/src/main/webapp/Sale" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Shopping.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/SidebarManager.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Signup.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/StaffDetail.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/reset-password.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Warehouse_Staff/InventoryManagement.jsp" value="file://$PROJECT_DIR$/src/main/webapp/Warehouse_Staff" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/forgotPassword.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/reset-password.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/vnpay_ipn.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/vnpay_pay.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+      </map>
+    </option>
+  </component>
+</project>

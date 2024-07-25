@@ -1,0 +1,17 @@
+
+Ä
+java:S1186%"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚“¶î8ğ´µòû1J$32f18ee8-3701-40e2-b2e0-24d7fd98ccbe
+
+java:S1450"VRemove the "message" field and declare it as a local variable in the relevant methods.(ù„è¿ûÿÿÿÿ8ğ´µòû1J$c3fbc6fc-1292-4c0f-8923-f14d0796674e
+}
+java:S1161":Add the "@Override" annotation above this method signature( Üó8ñ´µòû1J$a31c2df1-44e9-4867-8a01-eb9796acfebb
+‚
+java:S1161":Add the "@Override" annotation above this method signature(°Å·ğşÿÿÿÿ8ò´µòû1J$3547c26f-9a55-4163-8741-8adbadc850e4
+©
+java:S1989""aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(É¬áúÿÿÿÿ8ô´µòû1J$dfbd65db-ec52-4e1b-b3bd-6eda23627927
+}
+java:S1161%":Add the "@Override" annotation above this method signature(‚“¶î8ô´µòû1J$2ee951b3-fe1d-4c5e-acd0-67483fa64bfd
+l
+java:S1128"$Remove this unused import 'dal.DAO'.(£íË¼ùÿÿÿÿ8õ´µòû1J$71c1bfad-7750-41f4-8b85-b32cd0316bea
+s
+java:S1068"+Remove this unused "message" private field.(ù„è¿ûÿÿÿÿ8õ´µòû1J$bec61ffb-e4d3-494b-8ded-228b669a7e0e

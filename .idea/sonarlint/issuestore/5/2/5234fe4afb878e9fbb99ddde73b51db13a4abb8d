@@ -1,0 +1,27 @@
+
+n
+java:S1989"SHandle the following exception that could be thrown by "sendRedirect": IOException.(âùÒúÿÿÿÿ
+|
+java:S1989 "aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(åı¯éùÿÿÿÿ
+t
+java:S1989'"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(¹èãóÿÿÿÿÿ
+o
+java:S1989("YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(µ½‘ş
+w
+java:S1989)"\Handle the following exception that could be thrown by "parseDouble": NumberFormatException.(ØÀıÚüÿÿÿÿ
+o
+java:S1989+"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ƒçŒ†
+|
+java:S1989."aHandle the following exceptions that could be thrown by "getPart": IOException, ServletException.(ÓÄ™“úÿÿÿÿ
+A
+java:S10751"&Remove this hard-coded path-delimiter.(É‰ôÖşÿÿÿÿ
+g
+java:S19892"LHandle the following exception that could be thrown by "write": IOException.(‘š‘ûÿÿÿÿ
+n
+java:S19898"SHandle the following exception that could be thrown by "sendRedirect": IOException.(Ù†Ô½ùÿÿÿÿ
+N
+java:S1128"3Remove this unused import 'org.json.JSONException'.(¹Ó·úÿÿÿÿ
+J
+java:S1128	"/Remove this unused import 'util.ImgurUploader'.(€ÈÉ÷ùÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.io.InputStream'.(¹»º
